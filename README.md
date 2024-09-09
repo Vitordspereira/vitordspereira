@@ -16,4 +16,4 @@
 </div>
 
 
-![snake gif](https://github.com/your-user-name/vitordspereira/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vitordspereira/vitordspereira/blob/output/github-contribution-grid-snake.gif)
