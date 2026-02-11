@@ -1,19 +1,24 @@
-## Me chamo Vitor e só sei programar em Back-End 👍
+# Vitor Pereira 👨🏻‍💻
 
-<div>
-  <a href="https://beacons.ai/Vitordspereira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordspereira&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
-    <img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordspereira&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-java"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vitor-python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-<div>
-  <a href= "mailto:vitordspereira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href= "https://www.linkedin.com/in/vitor-pereira-back-end-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-</div>
+**`Desenvolvedor Back-End`**
 
+Me chamo Vitor, tenho 25 anos e sou natural de São Paulo. Conclui meu ensino médio no Colégio Nossa Senhora de Lourdes, com o curso técnico em informática. Hoje sou formado em Administração na Universidade São Judas Tadeu e em Análise e Desenvolvimento de Sistemas na FIAP. Curto bastante tecnologia e compartilho meus conhecimentos através do meu Linkedin "[Vitor Pereira](https://www.linkedin.com/in/vitor-pereira-back-end-developer/)", onde crio projetos e compartilho notícias de tecnologia ou do meu dia a dia.
+
+<p align="left">
+<a href="https://github.com/Vitordspereira?tab=followers">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Vitordspereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+<a href="https://github.com/Vitordspereira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Vitordspereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ![snake gif](https://github.com/vitordspereira/vitordspereira/blob/output/github-contribution-grid-snake.gif)
